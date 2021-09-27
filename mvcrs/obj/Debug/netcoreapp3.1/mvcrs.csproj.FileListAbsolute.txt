@@ -1,0 +1,79 @@
+D:\NEU Material\Semester 4\CSYE7220\Lecture 2\class3\mvcrs\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\NEU Material\Semester 4\CSYE7220\Lecture 2\class3\mvcrs\bin\Debug\netcoreapp3.1\appsettings.json
+D:\NEU Material\Semester 4\CSYE7220\Lecture 2\class3\mvcrs\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\NEU Material\Semester 4\CSYE7220\Lecture 2\class3\mvcrs\bin\Debug\netcoreapp3.1\mvcrs.exe
+D:\NEU Material\Semester 4\CSYE7220\Lecture 2\class3\mvcrs\bin\Debug\netcoreapp3.1\mvcrs.deps.json
+D:\NEU Material\Semester 4\CSYE7220\Lecture 2\class3\mvcrs\bin\Debug\netcoreapp3.1\mvcrs.runtimeconfig.json
+D:\NEU Material\Semester 4\CSYE7220\Lecture 2\class3\mvcrs\bin\Debug\netcoreapp3.1\mvcrs.runtimeconfig.dev.json
+D:\NEU Material\Semester 4\CSYE7220\Lecture 2\class3\mvcrs\bin\Debug\netcoreapp3.1\mvcrs.dll
+D:\NEU Material\Semester 4\CSYE7220\Lecture 2\class3\mvcrs\bin\Debug\netcoreapp3.1\mvcrs.pdb
+D:\NEU Material\Semester 4\CSYE7220\Lecture 2\class3\mvcrs\bin\Debug\netcoreapp3.1\mvcrs.Views.dll
+D:\NEU Material\Semester 4\CSYE7220\Lecture 2\class3\mvcrs\bin\Debug\netcoreapp3.1\mvcrs.Views.pdb
+D:\NEU Material\Semester 4\CSYE7220\Lecture 2\class3\mvcrs\obj\Debug\netcoreapp3.1\mvcrs.csprojAssemblyReference.cache
+D:\NEU Material\Semester 4\CSYE7220\Lecture 2\class3\mvcrs\obj\Debug\netcoreapp3.1\mvcrs.AssemblyInfoInputs.cache
+D:\NEU Material\Semester 4\CSYE7220\Lecture 2\class3\mvcrs\obj\Debug\netcoreapp3.1\mvcrs.AssemblyInfo.cs
+D:\NEU Material\Semester 4\CSYE7220\Lecture 2\class3\mvcrs\obj\Debug\netcoreapp3.1\mvcrs.csproj.CoreCompileInputs.cache
+D:\NEU Material\Semester 4\CSYE7220\Lecture 2\class3\mvcrs\obj\Debug\netcoreapp3.1\mvcrs.MvcApplicationPartsAssemblyInfo.cache
+D:\NEU Material\Semester 4\CSYE7220\Lecture 2\class3\mvcrs\obj\Debug\netcoreapp3.1\mvcrs.RazorAssemblyInfo.cache
+D:\NEU Material\Semester 4\CSYE7220\Lecture 2\class3\mvcrs\obj\Debug\netcoreapp3.1\mvcrs.RazorAssemblyInfo.cs
+D:\NEU Material\Semester 4\CSYE7220\Lecture 2\class3\mvcrs\obj\Debug\netcoreapp3.1\mvcrs.TagHelpers.input.cache
+D:\NEU Material\Semester 4\CSYE7220\Lecture 2\class3\mvcrs\obj\Debug\netcoreapp3.1\mvcrs.TagHelpers.output.cache
+D:\NEU Material\Semester 4\CSYE7220\Lecture 2\class3\mvcrs\obj\Debug\netcoreapp3.1\mvcrs.RazorCoreGenerate.cache
+D:\NEU Material\Semester 4\CSYE7220\Lecture 2\class3\mvcrs\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\NEU Material\Semester 4\CSYE7220\Lecture 2\class3\mvcrs\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\NEU Material\Semester 4\CSYE7220\Lecture 2\class3\mvcrs\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\NEU Material\Semester 4\CSYE7220\Lecture 2\class3\mvcrs\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\NEU Material\Semester 4\CSYE7220\Lecture 2\class3\mvcrs\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\NEU Material\Semester 4\CSYE7220\Lecture 2\class3\mvcrs\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\NEU Material\Semester 4\CSYE7220\Lecture 2\class3\mvcrs\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\NEU Material\Semester 4\CSYE7220\Lecture 2\class3\mvcrs\obj\Debug\netcoreapp3.1\mvcrs.RazorTargetAssemblyInfo.cache
+D:\NEU Material\Semester 4\CSYE7220\Lecture 2\class3\mvcrs\obj\Debug\netcoreapp3.1\mvcrs.RazorTargetAssemblyInfo.cs
+D:\NEU Material\Semester 4\CSYE7220\Lecture 2\class3\mvcrs\obj\Debug\netcoreapp3.1\mvcrs.Views.pdb
+D:\NEU Material\Semester 4\CSYE7220\Lecture 2\class3\mvcrs\obj\Debug\netcoreapp3.1\staticwebassets\mvcrs.StaticWebAssets.Manifest.cache
+D:\NEU Material\Semester 4\CSYE7220\Lecture 2\class3\mvcrs\obj\Debug\netcoreapp3.1\staticwebassets\mvcrs.StaticWebAssets.xml
+D:\NEU Material\Semester 4\CSYE7220\Lecture 2\class3\mvcrs\obj\Debug\netcoreapp3.1\mvcrs.dll
+D:\NEU Material\Semester 4\CSYE7220\Lecture 2\class3\mvcrs\obj\Debug\netcoreapp3.1\mvcrs.pdb
+D:\NEU Material\Semester 4\CSYE7220\Lecture 2\class3\mvcrs\obj\Debug\netcoreapp3.1\mvcrs.genruntimeconfig.cache
+D:\NEU Material\Semester 4\CSYE7220\Lecture 2\class3\mvcrs\obj\Debug\netcoreapp3.1\mvcrs.csproj.CopyComplete
+D:\NEU Material\Semester 4\CSYE7220\Lecture 2\class3\mvcrs\obj\Debug\netcoreapp3.1\Razor\Views\Home\Song.cshtml.g.cs
+D:\NEU Material\Semester 4\CSYE7220\Lecture 2\class3\mvcrs\obj\Debug\netcoreapp3.1\Razor\Views\Home\Song2.cshtml.g.cs
+C:\Users\Sindhu\Downloads\Assignment2\Assignment2\mvcrs\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Sindhu\Downloads\Assignment2\Assignment2\mvcrs\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Sindhu\Downloads\Assignment2\Assignment2\mvcrs\bin\Debug\netcoreapp3.1\mvcrs.exe
+C:\Users\Sindhu\Downloads\Assignment2\Assignment2\mvcrs\bin\Debug\netcoreapp3.1\mvcrs.deps.json
+C:\Users\Sindhu\Downloads\Assignment2\Assignment2\mvcrs\bin\Debug\netcoreapp3.1\mvcrs.runtimeconfig.json
+C:\Users\Sindhu\Downloads\Assignment2\Assignment2\mvcrs\bin\Debug\netcoreapp3.1\mvcrs.runtimeconfig.dev.json
+C:\Users\Sindhu\Downloads\Assignment2\Assignment2\mvcrs\bin\Debug\netcoreapp3.1\mvcrs.dll
+C:\Users\Sindhu\Downloads\Assignment2\Assignment2\mvcrs\bin\Debug\netcoreapp3.1\mvcrs.pdb
+C:\Users\Sindhu\Downloads\Assignment2\Assignment2\mvcrs\bin\Debug\netcoreapp3.1\mvcrs.Views.dll
+C:\Users\Sindhu\Downloads\Assignment2\Assignment2\mvcrs\bin\Debug\netcoreapp3.1\mvcrs.Views.pdb
+C:\Users\Sindhu\Downloads\Assignment2\Assignment2\mvcrs\obj\Debug\netcoreapp3.1\mvcrs.csproj.AssemblyReference.cache
+C:\Users\Sindhu\Downloads\Assignment2\Assignment2\mvcrs\obj\Debug\netcoreapp3.1\mvcrs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sindhu\Downloads\Assignment2\Assignment2\mvcrs\obj\Debug\netcoreapp3.1\mvcrs.AssemblyInfoInputs.cache
+C:\Users\Sindhu\Downloads\Assignment2\Assignment2\mvcrs\obj\Debug\netcoreapp3.1\mvcrs.AssemblyInfo.cs
+C:\Users\Sindhu\Downloads\Assignment2\Assignment2\mvcrs\obj\Debug\netcoreapp3.1\mvcrs.csproj.CoreCompileInputs.cache
+C:\Users\Sindhu\Downloads\Assignment2\Assignment2\mvcrs\obj\Debug\netcoreapp3.1\mvcrs.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sindhu\Downloads\Assignment2\Assignment2\mvcrs\obj\Debug\netcoreapp3.1\mvcrs.RazorAssemblyInfo.cache
+C:\Users\Sindhu\Downloads\Assignment2\Assignment2\mvcrs\obj\Debug\netcoreapp3.1\mvcrs.RazorAssemblyInfo.cs
+C:\Users\Sindhu\Downloads\Assignment2\Assignment2\mvcrs\obj\Debug\netcoreapp3.1\staticwebassets\mvcrs.StaticWebAssets.Manifest.cache
+C:\Users\Sindhu\Downloads\Assignment2\Assignment2\mvcrs\obj\Debug\netcoreapp3.1\staticwebassets\mvcrs.StaticWebAssets.xml
+C:\Users\Sindhu\Downloads\Assignment2\Assignment2\mvcrs\obj\Debug\netcoreapp3.1\scopedcss\bundle\mvcrs.styles.css
+C:\Users\Sindhu\Downloads\Assignment2\Assignment2\mvcrs\obj\Debug\netcoreapp3.1\mvcrs.TagHelpers.input.cache
+C:\Users\Sindhu\Downloads\Assignment2\Assignment2\mvcrs\obj\Debug\netcoreapp3.1\mvcrs.TagHelpers.output.cache
+C:\Users\Sindhu\Downloads\Assignment2\Assignment2\mvcrs\obj\Debug\netcoreapp3.1\mvcrs.RazorCoreGenerate.cache
+C:\Users\Sindhu\Downloads\Assignment2\Assignment2\mvcrs\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Sindhu\Downloads\Assignment2\Assignment2\mvcrs\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Sindhu\Downloads\Assignment2\Assignment2\mvcrs\obj\Debug\netcoreapp3.1\Razor\Views\Home\Song.cshtml.g.cs
+C:\Users\Sindhu\Downloads\Assignment2\Assignment2\mvcrs\obj\Debug\netcoreapp3.1\Razor\Views\Home\Song2.cshtml.g.cs
+C:\Users\Sindhu\Downloads\Assignment2\Assignment2\mvcrs\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Sindhu\Downloads\Assignment2\Assignment2\mvcrs\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Sindhu\Downloads\Assignment2\Assignment2\mvcrs\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Sindhu\Downloads\Assignment2\Assignment2\mvcrs\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Sindhu\Downloads\Assignment2\Assignment2\mvcrs\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Sindhu\Downloads\Assignment2\Assignment2\mvcrs\obj\Debug\netcoreapp3.1\mvcrs.RazorTargetAssemblyInfo.cache
+C:\Users\Sindhu\Downloads\Assignment2\Assignment2\mvcrs\obj\Debug\netcoreapp3.1\mvcrs.RazorTargetAssemblyInfo.cs
+C:\Users\Sindhu\Downloads\Assignment2\Assignment2\mvcrs\obj\Debug\netcoreapp3.1\mvcrs.Views.pdb
+C:\Users\Sindhu\Downloads\Assignment2\Assignment2\mvcrs\obj\Debug\netcoreapp3.1\mvcrs.dll
+C:\Users\Sindhu\Downloads\Assignment2\Assignment2\mvcrs\obj\Debug\netcoreapp3.1\mvcrs.pdb
+C:\Users\Sindhu\Downloads\Assignment2\Assignment2\mvcrs\obj\Debug\netcoreapp3.1\mvcrs.genruntimeconfig.cache
+C:\Users\Sindhu\Downloads\Assignment2\Assignment2\mvcrs\obj\Debug\netcoreapp3.1\mvcrs.csproj.CopyComplete
